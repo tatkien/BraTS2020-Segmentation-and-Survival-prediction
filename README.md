@@ -3,7 +3,7 @@
 This repository contains Jupyter Notebooks for building machine learning/deep learning pipelines to perform 3D Brain Tumor Segmentation and Predict Patient Survival using the BraTS 2020 (Brain Tumor Segmentation Challenge 2020) dataset.
 
 ## Team members
-Team Members & ResponsibilitiesNo.NameStuIDWork1Nguyễn Tất Kiên2311735- Handle model API and architecture- Training models & logging- Hyperparameters Tuning2Nguyễn Thành Minh Khôi2311687- Data exploration- Data preprocessing- Data augmentation3Nguyễn Lâm Huy2311188- Feature Engineering- Evaluation- Models Comparing
+No.NameStuIDWork1Nguyễn Tất Kiên2311735- Handle model API and architecture- Training models & logging- Hyperparameters Tuning2Nguyễn Thành Minh Khôi2311687- Data exploration- Data preprocessing- Data augmentation3Nguyễn Lâm Huy2311188- Feature Engineering- Evaluation- Models Comparing
 
 ## Project Structure
 
